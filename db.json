@@ -1,0 +1,14 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "name": "typicode"
+    },
+    {
+      "id":2,
+      "name":"oktesting"
+    }
+
+  ]
+}
